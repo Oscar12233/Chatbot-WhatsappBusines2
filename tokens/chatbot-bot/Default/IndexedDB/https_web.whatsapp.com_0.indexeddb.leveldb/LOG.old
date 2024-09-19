@@ -1,0 +1,12 @@
+2024/09/19-11:21:34.389 2fb4 Reusing MANIFEST D:\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/19-11:21:34.389 2fb4 Recovering log #66
+2024/09/19-11:21:34.393 2fb4 Reusing old log D:\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000066.log 
+2024/09/19-11:21:35.739 2fb4 Level-0 table #72: started
+2024/09/19-11:21:35.743 2fb4 Level-0 table #72: 182257 bytes OK
+2024/09/19-11:21:35.746 2fb4 Delete type=0 #66
+2024/09/19-11:21:35.747 2fb4 Manual compaction at level-0 from '\x00!\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00"\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/19-11:21:36.989 1674 Compacting 1@1 + 2@2 files
+2024/09/19-11:21:37.063 1674 Generated table #73@1: 59107 keys, 2227000 bytes
+2024/09/19-11:21:37.068 1674 Generated table #74@1: 2280 keys, 43124 bytes
+2024/09/19-11:21:37.068 1674 Compacted 1@1 + 2@2 files => 2270124 bytes
+2024/09/19-11:21:37.069 1674 compacted to: files[ 0 0 2 0 0 0 0 ]

@@ -1,0 +1,18 @@
+2024/09/19-12:35:48.925 3c5c Reusing MANIFEST D:\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/19-12:35:48.926 3c5c Recovering log #71
+2024/09/19-12:35:48.938 3c5c Reusing old log D:\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000071.log 
+2024/09/19-12:35:48.938 3c5c Delete type=2 #68
+2024/09/19-12:35:48.938 3c5c Delete type=2 #69
+2024/09/19-12:35:48.938 3c5c Delete type=2 #72
+2024/09/19-12:35:53.236 5134 Level-0 table #77: started
+2024/09/19-12:35:53.245 5134 Level-0 table #77: 389625 bytes OK
+2024/09/19-12:35:53.245 5134 Delete type=0 #71
+2024/09/19-12:35:53.246 7d8 Manual compaction at level-0 from '\x00"\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00#\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/19-12:35:54.502 3c5c Compacting 1@1 + 2@2 files
+2024/09/19-12:35:54.563 3c5c Generated table #78@1: 59938 keys, 2229141 bytes
+2024/09/19-12:35:54.569 3c5c Generated table #79@1: 3011 keys, 56648 bytes
+2024/09/19-12:35:54.569 3c5c Compacted 1@1 + 2@2 files => 2285789 bytes
+2024/09/19-12:35:54.570 3c5c compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/19-12:35:54.571 3c5c Delete type=2 #73
+2024/09/19-12:35:54.571 3c5c Delete type=2 #74
+2024/09/19-12:35:54.571 3c5c Delete type=2 #77
