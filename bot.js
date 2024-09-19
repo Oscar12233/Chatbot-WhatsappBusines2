@@ -6,11 +6,11 @@ const TIEMPO_MAXIMO_CONVERSACION = 15*60 * 1000;
 
 // conexión a PostgreSQL
 const dbClient = new Client({
-  user: 'Oscar',
-  host: 'localhost',
-  database: 'chatbot-Manuel',
-  password: 'robot432',
-  port: 5432,
+  user: process.env.DB_USER,
+  host: process.env.DB_HOST,
+  database: process.env.DB_NAME,
+  password: process.env.DB_PASSWORD,
+  port: process.env.DB_PORT,
 });
 
 dbClient.connect();
