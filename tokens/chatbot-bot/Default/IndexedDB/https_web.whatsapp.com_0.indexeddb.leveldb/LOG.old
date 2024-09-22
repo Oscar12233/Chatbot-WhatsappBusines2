@@ -1,15 +1,15 @@
-2024/09/22-15:20:12.990 5bc0 Reusing MANIFEST E:\BOT NODEJS\BOT-NODEJS2.0\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/22-15:20:12.991 5bc0 Recovering log #125
-2024/09/22-15:20:12.996 5bc0 Reusing old log E:\BOT NODEJS\BOT-NODEJS2.0\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000125.log 
-2024/09/22-15:20:14.322 5354 Level-0 table #131: started
-2024/09/22-15:20:14.378 5354 Level-0 table #131: 206056 bytes OK
-2024/09/22-15:20:14.395 5354 Delete type=0 #125
-2024/09/22-15:20:14.396 5bc0 Manual compaction at level-0 from '\x00-\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00.\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/09/22-15:20:15.469 57a8 Compacting 1@1 + 2@2 files
-2024/09/22-15:20:15.617 57a8 Generated table #132@1: 53868 keys, 2225889 bytes
-2024/09/22-15:20:15.648 57a8 Generated table #133@1: 19259 keys, 355881 bytes
-2024/09/22-15:20:15.648 57a8 Compacted 1@1 + 2@2 files => 2581770 bytes
-2024/09/22-15:20:15.661 57a8 compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/09/22-15:20:15.662 57a8 Delete type=2 #127
-2024/09/22-15:20:15.662 57a8 Delete type=2 #128
-2024/09/22-15:20:15.662 57a8 Delete type=2 #131
+2024/09/22-15:33:38.839 3bcc Reusing MANIFEST E:\BOT NODEJS\BOT-NODEJS2.0\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/22-15:33:38.840 3bcc Recovering log #130
+2024/09/22-15:33:38.844 3bcc Reusing old log E:\BOT NODEJS\BOT-NODEJS2.0\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000130.log 
+2024/09/22-15:33:42.433 675c Level-0 table #136: started
+2024/09/22-15:33:42.498 675c Level-0 table #136: 180564 bytes OK
+2024/09/22-15:33:42.514 675c Delete type=0 #130
+2024/09/22-15:33:42.515 3bcc Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/22-15:33:43.580 19ac Compacting 1@1 + 2@2 files
+2024/09/22-15:33:43.739 19ac Generated table #137@1: 53686 keys, 2226016 bytes
+2024/09/22-15:33:43.789 19ac Generated table #138@1: 20160 keys, 372905 bytes
+2024/09/22-15:33:43.789 19ac Compacted 1@1 + 2@2 files => 2598921 bytes
+2024/09/22-15:33:43.806 19ac compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/22-15:33:43.806 19ac Delete type=2 #132
+2024/09/22-15:33:43.806 19ac Delete type=2 #133
+2024/09/22-15:33:43.806 19ac Delete type=2 #136
