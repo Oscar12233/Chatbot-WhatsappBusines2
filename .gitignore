@@ -1,3 +1,2 @@
-node_modules
-bd_Manuel.sql
-.env
+/node_modules
+/.env
