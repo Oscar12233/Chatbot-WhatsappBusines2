@@ -1,15 +1,15 @@
-2024/09/19-13:05:31.909 2ba4 Reusing MANIFEST D:\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/19-13:05:31.910 2ba4 Recovering log #76
-2024/09/19-13:05:31.952 2ba4 Reusing old log D:\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000076.log 
-2024/09/19-13:05:36.109 2ba4 Level-0 table #82: started
-2024/09/19-13:05:36.122 2ba4 Level-0 table #82: 500258 bytes OK
-2024/09/19-13:05:36.124 2ba4 Delete type=0 #76
-2024/09/19-13:05:36.124 10c8 Manual compaction at level-0 from '\x00#\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00$\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/09/19-13:05:38.428 5aac Compacting 1@1 + 2@2 files
-2024/09/19-13:05:38.563 5aac Generated table #83@1: 58381 keys, 2226861 bytes
-2024/09/19-13:05:38.573 5aac Generated table #84@1: 6640 keys, 121942 bytes
-2024/09/19-13:05:38.573 5aac Compacted 1@1 + 2@2 files => 2348803 bytes
-2024/09/19-13:05:38.574 5aac compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/09/19-13:05:38.575 5aac Delete type=2 #78
-2024/09/19-13:05:38.575 5aac Delete type=2 #79
-2024/09/19-13:05:38.575 5aac Delete type=2 #82
+2024/09/22-15:33:38.839 3bcc Reusing MANIFEST E:\BOT NODEJS\BOT-NODEJS2.0\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/22-15:33:38.840 3bcc Recovering log #130
+2024/09/22-15:33:38.844 3bcc Reusing old log E:\BOT NODEJS\BOT-NODEJS2.0\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000130.log 
+2024/09/22-15:33:42.433 675c Level-0 table #136: started
+2024/09/22-15:33:42.498 675c Level-0 table #136: 180564 bytes OK
+2024/09/22-15:33:42.514 675c Delete type=0 #130
+2024/09/22-15:33:42.515 3bcc Manual compaction at level-0 from '\x00.\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00/\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/22-15:33:43.580 19ac Compacting 1@1 + 2@2 files
+2024/09/22-15:33:43.739 19ac Generated table #137@1: 53686 keys, 2226016 bytes
+2024/09/22-15:33:43.789 19ac Generated table #138@1: 20160 keys, 372905 bytes
+2024/09/22-15:33:43.789 19ac Compacted 1@1 + 2@2 files => 2598921 bytes
+2024/09/22-15:33:43.806 19ac compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/22-15:33:43.806 19ac Delete type=2 #132
+2024/09/22-15:33:43.806 19ac Delete type=2 #133
+2024/09/22-15:33:43.806 19ac Delete type=2 #136

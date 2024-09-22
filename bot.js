@@ -1,6 +1,8 @@
 const { Client } = require('pg'); // Cliente de PostgreSQL
 const venom = require('venom-bot');
 const path = require('path');
+const dotenv = require('dotenv');
+dotenv.config();
 
 const TIEMPO_MAXIMO_CONVERSACION = 15*60 * 1000; 
 
@@ -9,8 +11,11 @@ const dbClient = new Client({
   user: process.env.DB_USER,
   host: process.env.DB_HOST,
   database: process.env.DB_NAME,
-  password: process.env.DB_PASSWORD,
+  password: String(process.env.DB_PASSWORD),
   port: process.env.DB_PORT,
+  ssl:{
+    rejectUnauthorized: false
+  }
 });
 
 dbClient.connect();
