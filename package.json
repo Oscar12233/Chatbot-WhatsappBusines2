@@ -13,6 +13,9 @@
   "dependencies": {
     "dotenv": "^16.4.5",
     "pg": "^8.12.0",
-    "venom-bot": "^5.1.0"
+    "venom-bot": "^5.1.0",
+    "puppeteer": "^19.x.x",
+  "puppeteer-extra": "^3.x.x",
+  "puppeteer-extra-plugin-stealth": "^2.x.x"
   }
 }
