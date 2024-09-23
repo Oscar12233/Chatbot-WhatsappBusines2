@@ -1,15 +1,15 @@
-2024/09/22-17:21:17.300 29c8 Reusing MANIFEST C:\Users\Desktop\Desktop\chatbot-completo\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/22-17:21:17.301 29c8 Recovering log #135
-2024/09/22-17:21:17.313 29c8 Reusing old log C:\Users\Desktop\Desktop\chatbot-completo\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000135.log 
-2024/09/22-17:21:20.941 fa0 Level-0 table #141: started
-2024/09/22-17:21:20.950 fa0 Level-0 table #141: 432746 bytes OK
-2024/09/22-17:21:20.951 fa0 Delete type=0 #135
-2024/09/22-17:21:20.951 2700 Manual compaction at level-0 from '\x00/\x00\x00\x00' @ 72057594037927935 : 1 .. '\x000\x00\x00\x00' @ 0 : 0; will stop at (end)
-2024/09/22-17:21:22.387 29c8 Compacting 1@1 + 2@2 files
-2024/09/22-17:21:22.445 29c8 Generated table #142@1: 52647 keys, 2224053 bytes
-2024/09/22-17:21:22.462 29c8 Generated table #143@1: 23030 keys, 426145 bytes
-2024/09/22-17:21:22.462 29c8 Compacted 1@1 + 2@2 files => 2650198 bytes
-2024/09/22-17:21:22.463 29c8 compacted to: files[ 0 0 2 0 0 0 0 ]
-2024/09/22-17:21:22.463 29c8 Delete type=2 #137
-2024/09/22-17:21:22.463 29c8 Delete type=2 #138
-2024/09/22-17:21:22.463 29c8 Delete type=2 #141
+2024/09/23-07:58:04.340 6c78 Reusing MANIFEST C:\Users\Desktop\Desktop\chatbot-completo\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/23-07:58:04.340 6c78 Recovering log #140
+2024/09/23-07:58:04.353 6c78 Reusing old log C:\Users\Desktop\Desktop\chatbot-completo\BOT-NODEJS2.0\tokens\chatbot-bot\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000140.log 
+2024/09/23-07:58:08.025 2130 Level-0 table #146: started
+2024/09/23-07:58:08.034 2130 Level-0 table #146: 331178 bytes OK
+2024/09/23-07:58:08.035 2130 Delete type=0 #140
+2024/09/23-07:58:08.036 2890 Manual compaction at level-0 from '\x000\x00\x00\x00' @ 72057594037927935 : 1 .. '\x001\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/09/23-07:58:09.563 2890 Compacting 1@1 + 2@2 files
+2024/09/23-07:58:09.635 2890 Generated table #147@1: 52218 keys, 2224042 bytes
+2024/09/23-07:58:09.656 2890 Generated table #148@1: 24749 keys, 459213 bytes
+2024/09/23-07:58:09.656 2890 Compacted 1@1 + 2@2 files => 2683255 bytes
+2024/09/23-07:58:09.656 2890 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/09/23-07:58:09.657 2890 Delete type=2 #142
+2024/09/23-07:58:09.657 2890 Delete type=2 #143
+2024/09/23-07:58:09.657 2890 Delete type=2 #146
